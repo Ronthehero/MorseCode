@@ -1,0 +1,26 @@
+Morse Code Encoder/Decoder - Tutorial
+
+Usage:
+    python3 morsecode.py -e "your message here"
+        This encodes the given text into Morse code.
+
+    python3 morsecode.py -d "... --- ..."
+        This decodes the Morse code back into readable text.
+
+Requirements:
+    - Python 3.x
+    - No external libraries required
+
+What You Can Do:
+    - Encode alphanumeric characters and basic punctuation into Morse code
+    - Decode Morse code back to text
+
+What You Can't Do:
+    - Handle extended Unicode or emoji characters
+    - Process real-time audio Morse signals
+
+Tip:
+    - Space between Morse symbols represents different letters
+    - Slash (/) is used as a separator for words
+
+Author: ChatGPT
