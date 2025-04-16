@@ -23,4 +23,3 @@ Tip:
     - Space between Morse symbols represents different letters
     - Slash (/) is used as a separator for words
 
-Author: ChatGPT
